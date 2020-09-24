@@ -11,4 +11,4 @@ spec:
   lifecycle: experimental
   owner: soapraj
   implementsApis:
-    playlist-api-spec
+    - playlist-api-spec
