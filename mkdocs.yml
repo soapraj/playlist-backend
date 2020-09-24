@@ -1,0 +1,8 @@
+site_name: playlist-backend
+site_description: playlist-backend
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
